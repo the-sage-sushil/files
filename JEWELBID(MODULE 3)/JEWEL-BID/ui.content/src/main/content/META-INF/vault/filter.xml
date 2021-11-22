@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/JEWEL-BID" mode="merge"/>
+    <filter root="/content/JEWEL-BID" mode="merge"/>
+    <filter root="/content/dam/JEWEL-BID" mode="merge"/>
+    <filter root="/content/experience-fragments/JEWEL-BID" mode="merge"/>
+</workspaceFilter>

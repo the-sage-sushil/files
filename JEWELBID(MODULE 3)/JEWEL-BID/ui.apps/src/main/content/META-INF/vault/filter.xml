@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/JEWEL-BID/clientlibs"/>
+    <filter root="/apps/JEWEL-BID/components"/>
+    <filter root="/apps/JEWEL-BID/i18n"/>
+</workspaceFilter>
